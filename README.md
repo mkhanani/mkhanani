@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Mustafa Khanani**
 
-### 🚀 Developer • Cybersecurity Enthusiast • Automation Consultant • Founder of Tech101, Cubex Technologies, GetQuoteAI & FinAIx
+### 🚀 Developer • Cybersecurity Engineer • Automation Consultant • Founder of Tech101, Cubex Technologies & GetQuoteAI
 
 I’m a multi-domain tech builder with hands-on experience across **software development**, **AI automation**, **cybersecurity**, and **IT education**. Over the years, I’ve built and launched multiple products, trained hundreds of students, delivered corporate trainings, and helped businesses automate workflows through practical and scalable solutions.
 
@@ -71,7 +71,7 @@ My work combines **clean engineering**, **practical automation**, and **problem-
 * **CompTIA A+**
 * **CompTIA Security+**
 * **CCNA**
-* **Microsoft Office 365 Apps**
+* **Azure AZ-900**
 * **Python Programming**
 * **Microsoft Power BI**
 
@@ -123,7 +123,7 @@ My work combines **clean engineering**, **practical automation**, and **problem-
 ### 🛍️ **Minico** – Dropshipping Brand
 
 * Branding, logo concepts, mockups
-* Shopify setup
+* Store setup (MERN)
 * Custom UI, product card, wishlist systems
 * Domain + Vercel deployment
 * Complete social media strategy
